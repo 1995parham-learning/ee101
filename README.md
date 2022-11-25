@@ -1,4 +1,4 @@
-# Google earth engine for dummies
+# Google Earth Engine for Dummies
 
 ## Introduction
 
